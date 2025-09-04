@@ -32,3 +32,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Excludes specific platform implementation from version control. 
+poopy_puppy/android/*
+poopy_puppy/ios/*
+poopy_puppy/linux/*
+poopy_puppy/macos/*
+poopy_puppy/windows/*
+poopy_puppy/web/*
